@@ -1,4 +1,6 @@
-def roll_call_dwarves(string)
+def roll_call_dwarves(array)
+  nuarray = []
+  array.find 
   puts string
 end
 
