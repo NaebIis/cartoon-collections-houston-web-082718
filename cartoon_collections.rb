@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
-  array.collect do |word| 
-    word
+  array.collect do |x| 
+    array[x] + 1
     puts "#{word}"
   end
 end
