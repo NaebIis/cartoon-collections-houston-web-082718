@@ -2,8 +2,8 @@ def roll_call_dwarves(array)
   nuarray = []
   array.each do |word| 
     nuarray.push "#{word}"
+    puts nuarray
   end
-puts nuarray
 end
 
 def summon_captain_planet# code an argument here
