@@ -1,5 +1,5 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(string)
+  puts string
 end
 
 def summon_captain_planet# code an argument here
