@@ -2,7 +2,7 @@ def roll_call_dwarves(array)
   nuarray = []
   array.each do |word| 
     nuarray.push "#{word}"
-    puts nuarray
+    puts "#{word}"
   end
 end
 
