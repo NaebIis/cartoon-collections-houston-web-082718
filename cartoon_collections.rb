@@ -1,6 +1,6 @@
 def roll_call_dwarves(array)
   array.each do |word| 
-  puts string
+  puts "#{word}"
 end
 
 def summon_captain_planet# code an argument here
