@@ -1,6 +1,5 @@
 def roll_call_dwarves(array)
-  nuarray = []
-  array.find 
+  array.each do |word| 
   puts string
 end
 
